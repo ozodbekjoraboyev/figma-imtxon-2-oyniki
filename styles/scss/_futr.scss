@@ -1,0 +1,39 @@
+.futr{
+    display: flex;
+    gap: 50px;
+    margin-top: 50px;
+    justify-content: space-between;
+   p{
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+   }
+   .Webbrain{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+   }
+}
+.futr-end{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 50px;
+    img{
+        width: 200px;
+        justify-content: center;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        margin: 0 auto;
+        text-align: center;
+
+    }
+    .lina{
+        width: 400px;
+        height: 20px;
+        background-color: rgb(0, 0, 0);
+    }
+}
